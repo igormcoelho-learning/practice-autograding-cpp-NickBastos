@@ -1,5 +1,8 @@
 # autograding-example-cpp-catch
 
+Nícholas Tavares Bastos Moreira Lima
+
+
 *Learning Autograding with C/C++ and Catch2 - Prof. Igor Machado Coelho*
 
 **IMPORTANT:** If autograding (GitHub Actions) doesn't start for you, *check again the Invitation Link for
@@ -10,6 +13,7 @@ If you want to practice this activity, just follow this link: https://classroom.
 ## Full-Name-Of-Student
 
 **TODO - Please put your name in this README**
+Nícholas Tavares Bastos Moreira Lima
 
 ## Problem Description
 
